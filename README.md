@@ -1,4 +1,4 @@
-# ![SmartieCoin](https://smartiecoin.com/assets/logo-horizontal.png) SmartieCoin (SMT) Wallet Generator
+# ![SmartieCoin](http://lucky-pool.co.uk/img/coin/icon/smt.png) SmartieCoin (SMT) Wallet Generator
 
 A fully client-side, offline-capable wallet generator for **Smartiecoin (SMT)** — a secondary coin in the Ethernova ecosystem focused on CPU mining, privacy (CoinJoin/Tor), and deterministic masternodes.
 
