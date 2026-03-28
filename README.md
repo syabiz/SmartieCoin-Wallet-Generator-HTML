@@ -112,6 +112,7 @@ If this tool has been helpful to you, perhaps there's a reward of a cup of coffe
 | Network | Address |
 |---|---|
 | <img src="https://smartiecoin.com/assets/logo-horizontal.png" width="20"/> Smartie (SMT) | `SSdwnEwNVNm2f3zrfC383sBwwq7CJ7Lkvj` |
+| ⟠ Ethernova (NOVA) | '0x512936ca43829C8f71017aE47460820Fe703CAea' |
 | ₿ Bitcoin (BTC) | `bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58` |
 | ⟠ Ethereum (ETH) | `0x512936ca43829C8f71017aE47460820Fe703CAea` |
 | ◎ Solana (SOL) | `6ZZrRmeGWMZSmBnQFWXG2UJauqbEgZnwb4Ly9vLYr7mi` |
