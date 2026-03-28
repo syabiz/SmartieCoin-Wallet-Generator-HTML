@@ -1,4 +1,4 @@
-# 🪙 SmartieCoin (SMT) Wallet Generator
+# ![SmartieCoin](https://smartiecoin.com/assets/logo-horizontal.png) SmartieCoin (SMT) Wallet Generator
 
 A fully client-side, offline-capable wallet generator for **Smartiecoin (SMT)** — a secondary coin in the Ethernova ecosystem focused on CPU mining, privacy (CoinJoin/Tor), and deterministic masternodes.
 
@@ -111,7 +111,7 @@ If this tool has been helpful to you, perhaps there's a reward of a cup of coffe
 
 | Network | Address |
 |---|---|
-| 🪙 Smartie (SMT) | `SSdwnEwNVNm2f3zrfC383sBwwq7CJ7Lkvj` |
+| <img src="https://smartiecoin.com/assets/logo-horizontal.png" width="20"/> Smartie (SMT) | `SSdwnEwNVNm2f3zrfC383sBwwq7CJ7Lkvj` |
 | ₿ Bitcoin (BTC) | `bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58` |
 | ⟠ Ethereum (ETH) | `0x512936ca43829C8f71017aE47460820Fe703CAea` |
 | ◎ Solana (SOL) | `6ZZrRmeGWMZSmBnQFWXG2UJauqbEgZnwb4Ly9vLYr7mi` |
